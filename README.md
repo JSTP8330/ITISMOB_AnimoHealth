@@ -1,7 +1,7 @@
-# ITISMOB_AnimoHealth
+# AnimoHealth by Whalbytes
 
 ## Overview
-ITISMOB_AnimoHealth is a clinic appointment booking application designed for De La Salle University (DLSU). This application streamlines the process of scheduling and managing various medical appointments for university students and staff.
+AnimoHealth by Whalbytes is a clinic appointment booking application designed for De La Salle University (DLSU). This application streamlines the process of scheduling and managing various medical appointments for university students and staff.
 
 ## Repository Version Control Approach
 
@@ -43,8 +43,5 @@ The application supports booking for various clinic services:
 - Dedicated to DLSU clinic services
 
 ## About
-The application is a clinic appointment app – AnimoHealth, designed for the use within the clinic under the DLSU Health Services Office. It allows appointees to sign-in with their university emails to book clinic appointments - whether it be for the dentist’s appointment, or for their required drug testing/physical examinations as such. 
 
-Appointees can view available appointment slots, filter by exam type and date, and reserve a time that fits their schedule. Once an appointment is booked, it is automatically added to the student’s device calendar with reminders set days before the appointment. On the day of the appointment, students can check in by scanning a QR code or through location verification at the clinic. 
-
-After completing their exam, students are prompted to confirm their attendance and receive a digital clearance certificate stored within the app. More information about this can be found in the Google Docs link: https://docs.google.com/document/d/1nipQ4eRh9u8172YDr5QGfNjxefkOr1pMGHESqvTD50w/edit?usp=sharing
+More information about this can be found in the Google Docs link: https://docs.google.com/document/d/1nipQ4eRh9u8172YDr5QGfNjxefkOr1pMGHESqvTD50w/edit?usp=sharing
