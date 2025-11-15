@@ -3,6 +3,17 @@
 ## Overview
 ITISMOB_AnimoHealth is a clinic appointment booking application designed for De La Salle University (DLSU). This application streamlines the process of scheduling and managing various medical appointments for university students and staff.
 
+## Repository Version Control Approach
+
+**Important Note**: This repository uses a unique version control strategy:
+
+- This git repository is primarily used for **storing complete project snapshots** as ZIP files
+- Both new and old versions of the complete codebase are maintained as ZIP archives
+- The repository serves as a backup and version storage system rather than utilizing traditional git-based version control for individual file changes
+- Each ZIP file contains the entire project code at a specific point in time
+
+This approach allows for easy rollback to previous complete versions and maintains a clear archive of the application's evolution.
+
 ## Features and Capabilities
 
 ### User Authentication
@@ -30,17 +41,6 @@ The application supports booking for various clinic services:
 - Real-time availability checking
 - Appointment confirmation and reminders
 - Dedicated to DLSU clinic services
-
-## Repository Version Control Approach
-
-**Important Note**: This repository uses a unique version control strategy:
-
-- This git repository is primarily used for **storing complete project snapshots** as ZIP files
-- Both new and old versions of the complete codebase are maintained as ZIP archives
-- The repository serves as a backup and version storage system rather than utilizing traditional git-based version control for individual file changes
-- Each ZIP file contains the entire project code at a specific point in time
-
-This approach allows for easy rollback to previous complete versions and maintains a clear archive of the application's evolution.
 
 ## About
 The application is a clinic appointment app – AnimoHealth, designed for the use within the clinic under the DLSU Health Services Office. It allows appointees to sign-in with their university emails to book clinic appointments - whether it be for the dentist’s appointment, or for their required drug testing/physical examinations as such. 
