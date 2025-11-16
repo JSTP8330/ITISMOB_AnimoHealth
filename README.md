@@ -7,12 +7,14 @@ AnimoHealth by Whalbytes is a clinic appointment booking application designed fo
 
 **Important Note**: This repository uses a unique version control strategy:
 
+- Each group member is expected to contribute to the latest version of the project, one by one
+- After making their modifications, members upload the updated project as a ZIP archive and provide a brief description of the changes in the group chat
 - This git repository is primarily used for **storing complete project snapshots** as ZIP files
 - Both new and old versions of the complete codebase are maintained as ZIP archives
-- The repository serves as a backup and version storage system rather than utilizing traditional git-based version control for individual file changes
+- The repository serves as a backup and version storage system rather than utilizing git-based version control for individual file changes
 - Each ZIP file contains the entire project code at a specific point in time
 
-This approach allows for easy rollback to previous complete versions and maintains a clear archive of the application's evolution.
+This approach allows for straightforward rollback to previously completed versions while preserving a clear, well-structured archive of the application's evolution.
 
 ## Features and Capabilities
 
